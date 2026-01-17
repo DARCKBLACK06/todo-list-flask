@@ -104,7 +104,7 @@ No requiere configuración adicional.
 
 ```bash
 cd ~
-git clone https://github.com/DARCKBLACK06/todo-list.git
+git clone https://github.com/DARCKBLACK06/todo-list-flask.git
 cd todo-list
 ```
 
